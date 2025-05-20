@@ -1,4 +1,4 @@
-# src/math_operations.py
+# src/math_op.py
 def add(a, b):
     return a + b
 
